@@ -97,3 +97,5 @@ You can find more information about static builds in [Astro Documentation](https
 ## 👀 Want to learn more?
 
 Feel free to check [Astro documentation](https://docs.astro.build) or jump into Astro's [Discord server](https://astro.build/chat).
+
+concurrent deploys test1 
